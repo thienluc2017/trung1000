@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1588148526 source:c:\c++ project\gamsldterris\main.cpp
+	"game.h"
+
+1586871822 c:\c++ project\gamsldterris\name.h
+	<iostream>
+
+1561870368 c:\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1587962288 source:c:\c++ project\gamsldterris\imput.cpp
+
+1588590207 source:c:\c++ project\gamsldterris\game.cpp
+	"game.h"
+	<SDL_mixer.h>
+
+1588587810 c:\c++ project\gamsldterris\game.h
+	"tetromino.h"
+	"input.h"
+	"piece.h"
+
+1587223801 c:\c++ project\gamsldterris\texture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1587223801 c:\c++ project\gamsldterris\tetrisboard.h
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+	"Texture.h"
+	"Color.h"
+	"Input.h"
+	"Piece.h"
+
+1587223801 c:\c++ project\gamsldterris\color.h
+
+1588150924 c:\c++ project\gamsldterris\input.h
+
+1588521994 c:\c++ project\gamsldterris\piece.h
+
+1587223853 source:c:\c++ project\gamsldterris\piece.cpp
+
+1587484072 source:c:\c++ project\gamsldterris\tetrisboard.cpp
+
+1587484072 source:c:\c++ project\gamsldterris\texture.cpp
+
+1587484072 source:c:\c++ project\gamsldterris\input.cpp
+
+1587484072 source:c:\c++ project\gamsldterris\scoreboard.cpp
+
+1587717180 source:c:\c++ project\gamsldterris\tetromino.cpp
+
+1588265466 c:\c++ project\gamsldterris\tetromino.h
+	<iostream>
+	<cstring>
+	<cassert>
+	<map>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"colors.h"
+	"piece.h"
+
+1587481321 c:\c++ project\gamsldterris\well.h
+	"tetromino.h"
+	<SDL.h>
+
+1587483047 source:c:\c++ project\gamsldterris\well.cpp
+
+1540997992 c:\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1588150924 c:\c++ project\gamsldterris\colors.h
+
+1587482935 source:c:\c++ project\gamsldterris\tetris.cpp
+
+1587787477 source:c:\c++ project\gamsldterris\fuction.cpp
+

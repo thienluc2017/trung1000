@@ -4,7 +4,8 @@ class Piece
 
    public:
       //random
-     unsigned char random_tetromino;
+     unsigned char random_tetromino=0;
+      unsigned char random_tetromino_next;
      //toa do hang
      int offset_hang;
      //toa do cot
